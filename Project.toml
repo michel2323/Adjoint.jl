@@ -1,0 +1,4 @@
+name = "Adjoint"
+uuid = "976afdb4-7c2a-4e64-91cd-6392150f4991"
+authors = ["Michel Schanen <Michel.Schanen@gmail.com>"]
+version = "0.1.0"
